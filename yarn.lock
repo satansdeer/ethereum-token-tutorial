@@ -26,16 +26,13 @@ dotenv@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-4.0.0.tgz#864ef1379aced55ce6f95debecdce179f7a0cd1d"
 
-drizzle-react-components@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/drizzle-react-components/-/drizzle-react-components-1.0.1.tgz#8105c3167a8de6d8851e1f712af134afd179a01a"
+drizzle-react-components@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/drizzle-react-components/-/drizzle-react-components-1.4.0.tgz#e252a46f6d48c20c3054e62f2c2e3aab1c05e9ed"
+  integrity sha512-/i8FLkqHar8bk1Hq7MhcuaPDTomEhjLXHIZ4weVeWuPltWZMfUnAcWLiHVxNd19BOUNDXnjbESbSQlbPS47i9Q==
   dependencies:
-    drizzle "^1.0.0"
+    prop-types "^15.5.10"
     react "^15.4.2"
-
-drizzle@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/drizzle/-/drizzle-1.0.1.tgz#5590b871da754d00a3ba15cf1c767cd3be66fd07"
 
 encoding@^0.1.11:
   version "0.1.12"
